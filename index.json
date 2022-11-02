@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Nissan Skyline",
+        "info":"Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img":"./img/skyline.jpg",
+        "birthyear":"1969"
+    },
+      {
+        
+        "name":"Lamborghini",
+        "info":"Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img":"./img/Lambo.jpg",
+        "birthyear":"1990"
+      },
+      {
+        "name":"McLaren",
+        "info":"Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img":"./img/Mclaren.jpg",
+        "birthyear":"1964"
+      },
+      {
+        "name":"Tesla",
+        "info":"Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img":"./img/Tesla.jpg",
+        "birthyear":"July 1, 2003, San Carlos, CA"
+      },
+      {
+        "name":"Mini Cooper",
+        "info":"Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img":"./img/Mini-Cooper.jpg",
+        "birthyear":"1969"
+      },
+      {
+        "name":"Rav4",
+        "info":"Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img":"./img/Rav4.jpg",
+        "birthyear":"1998"
+      }
+]

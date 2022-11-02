@@ -1,0 +1,28 @@
+.App{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 100px;
+    margin-left: 125px;
+}
+
+.card{
+    width: 18rem;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: none;
+}
+
+.card-body{
+    border: solid black 5px;
+}
+
+.img{
+    height: 240px;
+}
+
+.link{
+    margin-top: -85px;
+    margin-left: 545px;
+    position: absolute;
+}
